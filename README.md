@@ -2,17 +2,15 @@
 
 Este repositório contém um estudo educacional sobre:
 
-- Funcionamento de Keyloggers
-- Funcionamento de Ransomwares
+- Funcionamento de Keyloggers and ransomwares
 - Exploração de vulnerabilidades
-- Simulações em Python
 - Estratégias de defesa e prevenção
+  
 
 ## Estrutura
 
 - Funcionamento prático
 - Vulnerabilidades e brechas
-- Simulação com python
 - Defesa e prevenção
 - Videos
 
