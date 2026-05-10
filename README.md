@@ -7,13 +7,14 @@ Este repositório contém um estudo educacional sobre:
 - Estratégias de defesa e prevenção
   
 
-## Estrutura
+## Tópicos
 
-- Funcionamento prático
-- Vulnerabilidades e brechas
 - Defesa e prevenção
-- Videos
+- Funcionamento prático
+- Vídeos
+- Vulnerabilidades e brechas
+
 
 ## Aviso
 
-Todo conteúdo é apenas para fins educacionais e deve ser utilizado exclusivamente em ambientes controlados e autorizados.
+O conteúdo deste repositório foi criado é apenas para fins educacionais.
