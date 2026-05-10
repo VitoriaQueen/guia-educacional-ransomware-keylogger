@@ -10,6 +10,7 @@ Este repositório contém um estudo educacional sobre:
 ## Tópicos
 
 - Defesa e prevenção
+- Exemplos
 - Funcionamento prático
 - Vídeos
 - Vulnerabilidades e brechas
