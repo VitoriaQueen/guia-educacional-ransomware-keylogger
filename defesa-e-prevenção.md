@@ -33,3 +33,21 @@ Observe uso anormal de CPU e memória.
 ### Dispositivos Públicos
 
 Evite acessar contas bancárias em computadores públicos.
+
+---
+
+## Aprenda Mais
+
+### O que é um keylogger?
+
+https://www.fortinet.com/br/resources/cyberglossary/what-is-keyloggers
+
+https://www.crowdstrike.com/en-us/cybersecurity-101/cyberattacks/keylogger/
+
+### O que é ransomware?
+
+https://www.microsoft.com/pt-pt/security/business/security-101/what-is-ransomware
+
+https://www.ibm.com/think/topics/ransomware
+
+---
